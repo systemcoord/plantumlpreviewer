@@ -118,6 +118,7 @@ function showPreview() {
 
 </div>
     <img src=${url} alt="UML diagram" width="100%" />
+    <p><a href="${url}">Open in Browser</a></p>
 </body>
 </html>`;
 }
